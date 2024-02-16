@@ -9,6 +9,7 @@ public class Main {
         }
         System.out.println("|");
     }
+    
     public static void displayShirtsWithAllParentClass(ArrayList<Shirt> daftarKemeja) {
         int maxIdProductLength = "ID Produk".length();
         int maxNameLength = "Nama".length();
